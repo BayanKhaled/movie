@@ -1,0 +1,5 @@
+@include('view.layout.header')
+@include('view.layout.nav')
+@include('view.layout.menu')
+@include('view.layout.wrapper')
+@include('view.layout.footer')
